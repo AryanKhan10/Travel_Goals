@@ -153,6 +153,11 @@ nav li:hover ul{
 nav li ul li{
     /* display: block; */
 }
+@media(max-width : 1220px){
+    #page-logo a{
+        font-size: 2rem;
+    }
+}
 
 
 
